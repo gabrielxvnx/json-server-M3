@@ -1,0 +1,263 @@
+{
+    "Livros": [
+        {
+            "id": 1,
+            "titulo": "Dom Casmurro",
+            "autor": "Machado de Assis",
+            "editora": "Livraria Garnier",
+            "sinopse": "Dom Casmurro conta a história de Bento Santiago (Bentinho), apelidado de Dom Casmurro por ser calado e introvertido. Na adolescência, apaixona-se por Capítu, abandonando o seminário e, com ele, os desígnios traçados por sua mãe, Dona Glória, para que se tornasse padre. Casam-se e tudo corre bem, até o amor se tornar ciúme e desconfiança. É esta a grande questão que magistralmente Dom Casmurro expõe ao longo de 148 capítulos: a dúvida que paira ao longo de toda a obra sobre a possibilidade de traição de Capítu, agravada pela extraordinária semelhança do filho de ambos, Ezequiel, com o grande amigo de Bentinho, Escobar.",
+            "tema": "Romance" 
+        },
+
+
+        {
+            "id": 2,
+            "titulo": "A Culpa é Das Estrelas",
+            "autor": "John Green",
+            "editora": "Intrínseca",
+            "sinopse": "Hazel é uma paciente terminal. Ainda que, por um milagre da medicina, seu tumor tenha encolhido bastante ― o que lhe dá a promessa de viver mais alguns anos ―, o último capítulo de sua história foi escrito no momento do diagnóstico. Mas em todo bom enredo há uma reviravolta, e a de Hazel se chama Augustus Waters, um garoto bonito que certo dia aparece no Grupo de Apoio a Crianças com Câncer. Juntos, os dois vão preencher o pequeno infinito das páginas em branco de suas vidas.",
+            "tema": "Romance" 
+        },
+        {
+            "id": 3,
+            "titulo": "P.S. Eu te amo",
+            "autor": "Cecelia Ahern",
+            "editora": "Novo Conceito",
+            "sinopse": "Gerry e Holly eram namorados de infância e ficariam juntos para sempre, até que o inimaginável acontece e Gerry morre, deixando-a devastada. Conforme seu aniversário de 30 anos se aproxima, Holly descobre um pacote de cartas nas quais Gerry, gentilmente, a guia em sua nova vida sem ele. Com ajuda de seus amigos e de sua família barulhenta e carinhosa, Holly consegue rir, chorar, cantar, dançar e ser mais corajosa do que nunca.",
+            "tema": "Romance" 
+        },
+        {
+            "id": 4,
+            "titulo": "Amor & Gelato",
+            "autor": "Jenna Evans Welch",
+            "editora": "Intrínseca",
+            "sinopse": "Depois da morte da mãe, Lina fica com a missão de realizar um último pedido: ir até a Itália para conhecer o pai. Do dia para a noite, ela se vê na famosa paisagem da Toscana, morando em uma casa localizada no mesmo terreno de um cemitério memorial de soldados americanos da Segunda Guerra Mundial, com um homem que nunca tinha ouvido falar. Apesar das belezas arquitetônicas, da história da cidade e das comidas maravilhosas, o que Lina mais quer é ir embora correndo dali. Mas as coisas começam a mudar quando ela recebe um antigo diário da mãe. Nele, a menina embarca em uma misteriosa história de amor, que pode explicar suas próprias origens. No meio desse turbilhão de emoções, Lina ainda conhece Ren e Thomas, dois meninos lindos que vão mexer ainda mais com seu coração. Uma trajetória que fará Lina descobrir o amor, a si mesma e também aprender a lidar com a perda. Amor & gelato é uma deliciosa viagem pelos mais românticos pontos turísticos italianos, com direito a tudo de mais intenso que o lugar tem a oferecer: desde paixões até corações partidos.",
+            "tema": "Romance" 
+        },
+        {
+            "id": 5,
+            "titulo": "O Cemitério",
+            "autor": "Stephen King",
+            "editora": "Suma",
+            "sinopse": "Louis Creed, um jovem médico de Chicago, acredita que encontrou seu lugar em uma pequena cidade do Maine. A boa casa, o trabalho na universidade e a felicidade da esposa e dos filhos lhe trazem a certeza de que fez a melhor escolha. Num dos primeiros passeios pela região, conhecem um cemitério no bosque próximo à sua casa. Ali, gerações de crianças enterraram seus animais de estimação. Mas, para além dos pequenos túmulos, há um outro cemitério. Uma terra maligna que atrai pessoas com promessas sedutoras. Um universo dominado por forças estranhas capazes de tornar real o que sempre pareceu impossível. A princípio, Louis Creed se diverte com as histórias fantasmagóricas do vizinho Crandall. No entanto, quando o gato de sua filha Eillen morre atropelado e, subitamente, retorna à vida, ele percebe que há coisas que nem mesmo a sua ciência pode explicar. Que mistérios esconde o cemitério dos bichos? Terá o homem o direito de interferir no mundo dos mortos? Em busca das respostas, Louis Creed é levado por uma trama sobrenatural em que o limite entre a vida e a morte é inexistente. E, quando descobre a verdade, percebe que ela é muito pior que seus mais terríveis pesadelos. Pior que a própria morte - e infinitamente mais poderosa.",
+            "tema": "Terror" 
+        },
+        {
+            "id": 6,
+            "titulo": "Drácula",
+            "autor": "Bram Stoker",
+            "editora": "Principis",
+            "sinopse": "Drácula é um clássico da literatura de terror e apresenta por meio de cartas, diários e notícias os ataques do vampiro Conde Drácula a moradores de Londres e da Transilvânia.",
+            "tema": "Terror" 
+        },
+        {
+            "id": 7,
+            "titulo": "It, a coisa",
+            "autor": "Stephen King",
+            "editora": "Suma",
+            "sinopse": "Durante as férias de 1958, em uma pacata cidadezinha chamada Derry, um grupo de sete amigos começa a ver coisas estranhas. Um conta que viu um palhaço, outro que viu uma múmia. Finalmente, acabam descobrindo que estavam todos vendo a mesma coisa: um ser sobrenatural e maligno que pode assumir várias formas. É assim que Bill, Beverly, Eddie, Ben, Richie, Mike e Stan enfrentam a Coisa pela primeira vez.",
+            "tema": "Terror" 
+        },
+        {
+            "id": 8,
+            "titulo": "O Exorcista",
+            "autor": "William Peter Blatty",
+            "editora": "HarperCollins",
+            "sinopse": "Inspirado no caso real do exorcismo de um adolescente, o escritor William Peter Blatty publicou em 1971 a perturbadora história de Chris MacNeil, uma atriz que sofre com inesperadas mudanças no comportamento da filha de 11 anos, Regan. Quando todos os esforços da ciência para descobrir o que há de errado com a menina falham e uma personalidade demoníaca parece vir à tona, Chris busca a ajuda da Igreja para tentar livrar a filha do que parece ser um raro caso de possessão. Cabe a Damien Karras, um padre da universidade de Georgetown, salvar a alma de Regan e ao mesmo tempo tentar restabelecer a própria fé, abalada desde a morte da mãe. Neste livro, Blatty conseguiu dar ao demônio a sua face mais revoltante: a corrupção de uma alma inocente. A menina Regan é, ao mesmo tempo, o mal e sua vítima. Ela recebe a pena e a revolta de leitores e espectadores em doses equivalentes e, mesmo quarenta anos depois, seu sofrimento e o abismo entre o que ela era e o que se torna continuam nos atormentando a cada página, a cada cena. Um clássico do terror que se mantém atual como somente os grandes nomes do gênero poderiam criar, O exorcista não se trata apenas de uma simples história sobre o bem contra o mal, ou sobre Deus contra o Demônio, mas também sobre a renovação da fé..",
+            "tema": "Terror" 
+        },
+        {
+            "id": 9,
+            "titulo": "Duna",
+            "autor": "Frank Herbert",
+            "editora": "Chilton Books",
+            "sinopse": "Uma estonteante mistura de aventura e misticismo, ecologia e política, este romance ganhador dos prêmios Hugo e Nebula deu início a uma das mais épicas histórias de toda a ficção científica. Duna é um triunfo da imaginação, que influenciará a literatura para sempre.",
+            "tema": "Ficção Cientifíca" 
+        },
+        {
+            "id": 10,
+            "titulo": "I, Robot",
+            "autor": "Isaac Asimov",
+            "editora": "Macmillan Education",
+            "sinopse": "Clássica coleção de histórias de Isaac Asimov sobre uma sociedade em que seres humanos e robots vivem e trabalham juntos. As Histórias são ao mesmo tempo perturbadoras e proféticas.",
+            "tema": "Ficção Cientifíca" 
+        },
+        {
+            "id": 11,
+            "titulo": "Fahrenheit 451",
+            "autor": "Ray Bradbury",
+            "editora": "Biblioteca Azul",
+            "sinopse": "Guy Montag é um bombeiro. Sua profissão é atear fogo nos livros. Em um mundo onde as pessoas vivem em função das telas e a literatura está ameaçada de extinção, os livros são objetos proibidos, e seus portadores são considerados criminosos. Montag nunca questionou seu trabalho; vive uma vida comum, cumpre o expediente e retorna ao final do dia para sua esposa e para a rotina do lar. Até que conhece Clarisse, uma jovem de comportamento suspeito, cheia de imaginação e boas histórias. Quando sua esposa entra em colapso mental e Clarisse desaparece, a vida de Montag não poderá mais ser a mesma.",
+            "tema": "Ficção Cientifíca" 
+        },
+        {
+            "id": 12,
+            "titulo": "A garota do lago",
+            "autor": "Charlie Donlea",
+            "editora": "Faro Editorial",
+            "sinopse": "Summit Lake, uma pequena cidade entre montanhas, é esse tipo de lugar, bucólico e com encantadoras casas dispostas à beira de um longo trecho de água intocada.Duas semanas atrás, a estudante de direito Becca Eckersley foi brutalmente assassinada em uma dessas casas. Filha de um poderoso advogado, Becca estava no auge de sua vida. Atraída instintivamente pela notícia, a repórter Kelsey Castle vai até a cidade para investigar o caso. ...E LOGO SE ESTABELECE UMA CONEXÃO ÍNTIMA QUANDO UM VIVO CAMINHA NAS MESMAS PEGADAS DOS MORTOS...E enquanto descobre sobre as amizades de Becca, sua vida amorosa e os segredos que ela guardava, a repórter fica cada vez mais convencida de que a verdade sobre o que aconteceu com Becca pode ser a chave para superar as marcas sombrias de seu próprio passado.",
+            "tema": "Ficção Cientifíca" 
+        },
+        {
+            "id": 13,
+            "titulo": "Dom Quixote",
+            "autor": "Miguel de Cervantes",
+            "editora": "editora DCL",
+            "sinopse": "O protagonista da obra é Dom Quixote, um pequeno fidalgo castelhano que perdeu a razão por muita leitura de romances de cavalaria e pretende imitar seus heróis preferidos. O romance narra as suas aventuras em companhia de Sancho Pança, seu fiel amigo e companheiro, que tem uma visão mais realista.",
+            "tema": "Aventura" 
+        },
+        {
+            "id": 14,
+            "titulo": "Moby Dick",
+            "autor": "Herman Melville",
+            "editora": "Nova Fronteira",
+            "sinopse": "O clássico de Herman Melville é narrado por Ishmael, tripulante do baleeiro comandado pelo capitão Ahab, que, em sua última viagem, deseja capturar a grande baleia branca que no passado arrancou uma de suas pernas. A beleza e a complexidade de Moby Dick residem na forma como Melville consegue explorar com maestria os mais diversos gêneros literários, construindo ao mesmo tempo diálogos shakespearianos, descrições científicas precisas e reflexões filosóficas sobre o bem e o mal.",
+            "tema": "Aventura" 
+        },
+        {
+            "id": 15,
+            "titulo": "A volta ao mundo em 80 dias",
+            "autor": "Julio Verne",
+            "editora": "Autêntica infantil e juvenil",
+            "sinopse": "Durante um jogo de cartas no Reform Club de Londres, Mr. Phileas Fogg, um gentleman inglês misterioso e muito rico, aposta com seus parceiros que conseguirá dar a volta completa ao mundo em 80 dias. Todos acham isso absurdo, irrealizável, mas um inglês nunca brinca quando se trata de algo tão importante como uma aposta, e ela é fechada. São 8:45 da noite, é quarta-feira, 2 de outubro; Mr. Fogg garante que estará de volta a Londres, naquela mesma sala, no sábado, 21 de dezembro, às 8:45 da noite; caso contrário, as 20 mil libras de sua conta bancária passarão a pertencer aos seus cinco parceiros de jogo.",
+            "tema": "Aventura" 
+        },
+        {
+            "id": 16,
+            "titulo": "As aventuras de Sherlock Holmes",
+            "autor": "Arthur Conan Doyle",
+            "editora": "Martin Claret",
+            "sinopse": "As aventuras de Sherlock Holmes, obra publicada em 1892, é uma série de doze contos nos quais o genial detetive, acompanhado de seu fiel amigo dr. Watson, desvenda os mais intrincados e, por vezes, assustadores, mistérios. De inteligência fria e precisa, porém admiravelmente equilibrada, Sherlock Holmes é, certamente, a máquina de observar e raciocinar mais perfeita que o mundo já conheceu. ",
+            "tema": "Aventura" 
+        },
+
+        {
+            "id": 17,
+          "titulo": "Marvel",
+          "autor": "Stan Lee",
+          "editora": "Marvel Comics",
+          "sinopse": "(sem sinopse)",
+          "tema": "Quadrinhos"
+        },
+        {
+            "id": 18,
+          "titulo": "The Boys",
+          "autor": "Eric Kripke",
+          "editora": "Panini",
+          "sinopse": "(sem sinopse)",
+          "tema": "Quadrinhos"
+        },
+        {
+            "id": 19,
+          "titulo": "DC Comics",
+          "autor": "Alan Moore",
+          "editora": "DC comics",
+          "sinopse": "(sem sinopse)",
+          "tema": "Quadrinhos"
+        },
+
+        {
+            "id": 20,
+          "titulo": "Turma da Monica",
+          "autor": "Mauricio Araújo de Sousa",
+          "editora": "Saraiva",
+          "sinopse": "(sem sinopse)",
+          "tema": "Quadrinhos"
+        },
+
+        {
+            "id": 20,
+          "titulo": "Dragon Ball Z",
+          "autor": "Akira Toriyama",
+          "editora": "Editora Conrad.",
+          "sinopse": "(sem sinopse)",
+          "tema": "Animes"
+        },
+
+        {
+            "id": 21,
+          "titulo": "HunterXHunter",
+          "autor": "Yoshihiro Togashi",
+          "editora": "Panini",
+          "sinopse": "(sem sinopse)",
+          "tema": "Animes"
+        },
+
+        {
+            "id": 22,
+          "titulo": "Naruto",
+          "autor": "Kishimoto",
+          "editora": "Rocco",
+          "sinopse": "(sem sinopse)",
+          "tema": "Animes"
+        },
+
+        {
+            "id": 23,
+          "titulo": "Jusutsu Kaisen",
+          "autor": "Gege Akutami",
+          "editora": "Salamandra",
+          "sinopse": "(sem sinopse)",
+          "tema": "Animes"
+        },
+        {
+            "id": 24,
+          "titulo": "O Senhor dos Aneis",
+          "autor": "J. R. R. Tolkien",
+          "editora": "Europa América",
+          "sinopse": "(sem sinopse)",
+          "tema": "Fantasia"
+        },
+        {
+            "id": 25,
+          "titulo": "O Feiticeiro de Terramar",
+          "autor": "Ursula K. Le Guin",
+          "editora": "Arqueiro",
+          "sinopse": "(sem sinopse)",
+          "tema": "Fantasia"
+        },
+        {
+            "id": 26,
+          "titulo": "Eragon",
+          "autor": "Christopher Paolini",
+          "editora": "Rocco",
+          "sinopse": "(sem sinopse)",
+          "tema": "Fantasia"
+        },
+        {
+            "id": 27,
+            "titulo": "JavaScript Descomplicado: Programação para a Web, IOT e Dispositivos Móveis",
+            "autor": " Cláudio Luís Vieira Oliveira ",
+            "editora": "Veja",
+            "sinopse": "Este livro apresenta os conceitos fundamentais que possibilitam aplicações para a web, além de ferramentas e frameworks mais empregados, incluindo o uso de sistemas de bancos de dados para realizar o armazenamento das informações.",
+            "tema": "Programação"
+        },
+        {
+            "id": 28,
+            "titulo": "JavaScript: O Guia Definitivo",
+            "autor": "David Flanagan",
+            "editora": "novatec",
+            "sinopse": "O guia definitivo fornece uma ampla descrição da linguagem JavaScript e das APIs JavaScript do lado do cliente definidas pelos navegadores Web. Em sua 6ª edição, cuidadosamente reescrita para estar de acordo com as melhores práticas de desenvolvimento Web atuais, abrange ECMAScript 5 e HTML5 e traz novos capítulos que documentam jQuery e JavaScript do lado do servidor.",
+            "tema": "Programação"
+        },
+
+        {
+            "id": 29,
+            "titulo": "Lógica de Programação e Algoritmos com JavaScript",
+            "autor": " Edécio Fernando Iepsen",
+            "editora": "novatec",
+            "sinopse": "Neste livro, o autor utiliza sua experiência de mais de 15 anos em lecionar a disciplina de Algoritmos em cursos de graduação, para trabalhar o assunto passo a passo. Cada capítulo foi cuidadosamente planejado a fim de evitar a sobrecarga de informações ao leitor, com exemplos e exercícios de fixação para cada assunto.",
+            "tema": "Programação"
+        },
+
+        {
+            "id": 30,
+            "titulo": "Java para Iniciantes: Crie, Compile e Execute Programas Java Rapidamente",
+            "autor": "Herbert Schildt",
+            "editora": "Oracle",
+            "sinopse": "Aprenda rapidamente os fundamentos da programação Java com Herbert Schildt, autor best-seller de publicações sobre programação. Totalmente atualizado para Java Platform, Standard Edition 8 (Java SE 8), Java para iniciantes, 6ª edição apresenta os aspectos básicos e discute as palavras-chave, a sintaxe e as estruturas que formam a base da linguagem.",
+            "tema": "Programação"
+        }
+    ]
+
+}
